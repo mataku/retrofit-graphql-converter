@@ -16,6 +16,6 @@ class Factory : Converter.Factory() {
     }
 
     companion object {
-        const val MEDIA_TYPE = "application/graphql; charset=UTF-8"
+        const val MEDIA_TYPE = "application/json; charset=UTF-8"
     }
 }
